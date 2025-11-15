@@ -34,4 +34,4 @@ Aplicação rodará na porta **3000**.
 3. Configure credenciais no backend (arquivo `.env`).
 
 ## 🔗 Link do Repositório
-[GitHub - Projeto IURD]({[repo_link](https://github.com/tuliocesarscs/projeto-iurd)})
+[GitHub - Projeto IURD]({https://github.com/tuliocesarscs/projeto-iurd})
